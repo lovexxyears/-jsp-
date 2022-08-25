@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lanou/annotation/RequireAuth.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lanou/annotation/RequireRole.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lanou/controller/FileController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lanou/controller/MyExamController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lanou/controller/QuestionController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lanou/controller/RunTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lanou/controller/StudentController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lanou/controller/TbExaminationController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lanou/dao/TbExaminationDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lanou/entity/Answer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lanou/entity/ExamPaper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lanou/entity/Question.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lanou/entity/TbExamination.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lanou/entity/TbQuestionCode.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lanou/entity/TbQuestionJudge.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lanou/entity/TbQuestionSubjective.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lanou/entity/UserInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lanou/interceptor/LoginInterceptor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lanou/interceptor/RoleInterceptor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lanou/service/RuntestService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lanou/service/TbExaminationService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lanou/service/impl/RuntestServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/lanou/service/impl/TbExaminationServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
